@@ -1,0 +1,150 @@
+garbage
+r_r=[]
+   o_r=[]
+   r_r=Repeat(n_l)
+   o_r=Remove(n_l)
+   print("printing duplicates")
+   print r_r
+   print("\n")
+   print("printing deduplicated list")
+   print o_r
+   print("\n")
+
+
+
+   print("\n")
+   n_l = [int(k) for k in n_d.split(',')]
+   print("converting strings into integers as integers")
+   print n_l
+   print("\n")
+   length2=len(n_l)
+   n_l2=[]
+   n_l2=n_l[1:length2-2]
+   if n_l[length2-1]==0:
+      r_r=[]
+      o_r=[]
+      r_r=Repeat(n_l2)
+      o_r=Remove(n_l2)
+      print("printing duplicates")
+      print r_r
+      print("\n")
+      print("printing deduplicated list")
+      print o_r
+      print("\n")
+   if n_l[length2-1]==1 :
+      cr=genrandarray(length2-1,0,100)
+      print("new random array")
+      print cr
+      ir=[]
+      ir=intersection(cr,n_l2)
+      print("printing intersection")
+      print ir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
+sending element
